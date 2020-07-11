@@ -1,6 +1,6 @@
 # calcimc
 
-Calculadora de IMC
+Calculadora de IMC utilizando flutter
 
 ## Getting Started
 
